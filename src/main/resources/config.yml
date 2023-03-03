@@ -1,0 +1,24 @@
+command-name: instructions
+book-title: "Instructions"
+book-author: "Server"
+pages:
+  - "Welcome to our server!"
+  - "Here are some instructions for getting started:"
+  - "- /spawn to go back to the spawn point."
+  - "- /tpa <player> to request a teleport to another player."
+  - "- /help §a(click here for more info)§r to see a list of available commands."
+  - "Thanks for playing on our server!"
+tooltips:
+  - ""
+  - ""
+  - ""
+  - ""
+  - "Click here for more info about /help."
+  - ""
+http-embeds:
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
